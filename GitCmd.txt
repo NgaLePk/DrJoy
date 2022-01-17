@@ -1,0 +1,3 @@
+git config --global user.name ""
+git config --global user.email ""
+git remote set-url origin https://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@github.com/NgaLePk/DrJoy
